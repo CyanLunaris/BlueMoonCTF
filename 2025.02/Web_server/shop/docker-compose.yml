@@ -1,0 +1,7 @@
+version: "3.8"
+
+services:
+  shop:
+    build: .
+    ports:
+      - "5200:5200"

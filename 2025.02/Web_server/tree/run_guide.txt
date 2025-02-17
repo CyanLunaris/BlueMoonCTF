@@ -1,0 +1,3 @@
+docker build -t tree-injection .
+
+docker run -d -p 5100:5100 --name tree_injection tree-injection
