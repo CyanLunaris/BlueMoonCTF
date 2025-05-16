@@ -11,3 +11,5 @@ updates:
       interval: "weekly"
     assignees:
       - CyanLunaris
+    reviewers:
+      - CyanLunaris
